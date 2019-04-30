@@ -1,0 +1,10 @@
+.header {
+  border: #020202 dashed 1px;
+  display: flex;
+  justify-content: space-between;
+}
+.header .header__title {
+  font-size: 24px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
